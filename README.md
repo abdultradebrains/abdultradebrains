@@ -37,8 +37,8 @@ I love to
      <a href="https://steamcommunity.com/profiles/76561198412296207"><img src="imgs/steam.svg" height='25' width='25'></a>
 </p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=ajaseem129.ajaseem129)
+![](https://visitor-badge.glitch.me/badge?page_id=abdultradebrains.abdultradebrains)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=ajaseem129&show_icons=false&theme=dark" alt="ajaseem129" align="right" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api?username=abdultradebrains&show_icons=false&theme=dark" alt="abdultradebrains" align="right" width="50%" />
 
